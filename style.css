@@ -1,0 +1,10 @@
+.hello {
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	border: 3px solid black;
+}
+
+.hello:hover {
+	opacity: 0.8;
+}
